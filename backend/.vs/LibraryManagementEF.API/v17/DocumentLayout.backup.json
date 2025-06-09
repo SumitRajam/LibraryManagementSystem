@@ -1,0 +1,734 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{148ACEE2-C359-48A0-BA33-5B94196F7721}|LibraryManagementEF.API\\LibraryManagementEF.API.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{148ACEE2-C359-48A0-BA33-5B94196F7721}|LibraryManagementEF.API\\LibraryManagementEF.API.csproj|solutionrelative:librarymanagementef.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|solutionrelative:librarymanagementef.dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|solutionrelative:librarymanagementef.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.dal\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|solutionrelative:librarymanagementef.dal\\repositories\\rolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.dal\\repositories\\borrowrecordrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|solutionrelative:librarymanagementef.dal\\repositories\\borrowrecordrepository .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.dal\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|solutionrelative:librarymanagementef.dal\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.dal\\ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|solutionrelative:librarymanagementef.dal\\ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.dal\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|solutionrelative:librarymanagementef.dal\\interfaces\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.dal\\interfaces\\iborrowrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|solutionrelative:librarymanagementef.dal\\interfaces\\iborrowrecordrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.dal\\interfaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|solutionrelative:librarymanagementef.dal\\interfaces\\irolerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.dal\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|solutionrelative:librarymanagementef.dal\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.dal\\configurations\\borrowrecordconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|solutionrelative:librarymanagementef.dal\\configurations\\borrowrecordconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.dal\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|solutionrelative:librarymanagementef.dal\\configurations\\bookconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C52DF4-F762-44F1-8769-10C90112B1AF}|LibraryManagementEF.Core\\LibraryManagementEF.Core.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C52DF4-F762-44F1-8769-10C90112B1AF}|LibraryManagementEF.Core\\LibraryManagementEF.Core.csproj|solutionrelative:librarymanagementef.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C52DF4-F762-44F1-8769-10C90112B1AF}|LibraryManagementEF.Core\\LibraryManagementEF.Core.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C52DF4-F762-44F1-8769-10C90112B1AF}|LibraryManagementEF.Core\\LibraryManagementEF.Core.csproj|solutionrelative:librarymanagementef.core\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C52DF4-F762-44F1-8769-10C90112B1AF}|LibraryManagementEF.Core\\LibraryManagementEF.Core.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.core\\entities\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C52DF4-F762-44F1-8769-10C90112B1AF}|LibraryManagementEF.Core\\LibraryManagementEF.Core.csproj|solutionrelative:librarymanagementef.core\\entities\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C52DF4-F762-44F1-8769-10C90112B1AF}|LibraryManagementEF.Core\\LibraryManagementEF.Core.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68C52DF4-F762-44F1-8769-10C90112B1AF}|LibraryManagementEF.Core\\LibraryManagementEF.Core.csproj|solutionrelative:librarymanagementef.core\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68C52DF4-F762-44F1-8769-10C90112B1AF}|LibraryManagementEF.Core\\LibraryManagementEF.Core.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.core\\librarymanagementef.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68C52DF4-F762-44F1-8769-10C90112B1AF}|LibraryManagementEF.Core\\LibraryManagementEF.Core.csproj|solutionrelative:librarymanagementef.core\\librarymanagementef.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.bl\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|solutionrelative:librarymanagementef.bl\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.bl\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|solutionrelative:librarymanagementef.bl\\services\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.bl\\services\\borrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|solutionrelative:librarymanagementef.bl\\services\\borrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.bl\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|solutionrelative:librarymanagementef.bl\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.bl\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|solutionrelative:librarymanagementef.bl\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.bl\\ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|solutionrelative:librarymanagementef.bl\\ioc\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.bl\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|solutionrelative:librarymanagementef.bl\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.bl\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|solutionrelative:librarymanagementef.bl\\interfaces\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.bl\\interfaces\\iroleassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|solutionrelative:librarymanagementef.bl\\interfaces\\iroleassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.bl\\interfaces\\iborrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|solutionrelative:librarymanagementef.bl\\interfaces\\iborrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.bl\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|solutionrelative:librarymanagementef.bl\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.bl\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|solutionrelative:librarymanagementef.bl\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.bl\\dtos\\bookdtos\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|solutionrelative:librarymanagementef.bl\\dtos\\bookdtos\\bookupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.bl\\dtos\\bookdtos\\bookresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|solutionrelative:librarymanagementef.bl\\dtos\\bookdtos\\bookresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.bl\\dtos\\bookdtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|solutionrelative:librarymanagementef.bl\\dtos\\bookdtos\\bookcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.bl\\dtos\\authdtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ED65ED1-F907-4A55-B393-D4E888FF62FF}|LibraryManagementEF.BL\\LibraryManagementEF.BL.csproj|solutionrelative:librarymanagementef.bl\\dtos\\authdtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148ACEE2-C359-48A0-BA33-5B94196F7721}|LibraryManagementEF.API\\LibraryManagementEF.API.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.api\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148ACEE2-C359-48A0-BA33-5B94196F7721}|LibraryManagementEF.API\\LibraryManagementEF.API.csproj|solutionrelative:librarymanagementef.api\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148ACEE2-C359-48A0-BA33-5B94196F7721}|LibraryManagementEF.API\\LibraryManagementEF.API.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148ACEE2-C359-48A0-BA33-5B94196F7721}|LibraryManagementEF.API\\LibraryManagementEF.API.csproj|solutionrelative:librarymanagementef.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148ACEE2-C359-48A0-BA33-5B94196F7721}|LibraryManagementEF.API\\LibraryManagementEF.API.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.api\\controllers\\roleassignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148ACEE2-C359-48A0-BA33-5B94196F7721}|LibraryManagementEF.API\\LibraryManagementEF.API.csproj|solutionrelative:librarymanagementef.api\\controllers\\roleassignmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148ACEE2-C359-48A0-BA33-5B94196F7721}|LibraryManagementEF.API\\LibraryManagementEF.API.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148ACEE2-C359-48A0-BA33-5B94196F7721}|LibraryManagementEF.API\\LibraryManagementEF.API.csproj|solutionrelative:librarymanagementef.api\\controllers\\rolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148ACEE2-C359-48A0-BA33-5B94196F7721}|LibraryManagementEF.API\\LibraryManagementEF.API.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.api\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148ACEE2-C359-48A0-BA33-5B94196F7721}|LibraryManagementEF.API\\LibraryManagementEF.API.csproj|solutionrelative:librarymanagementef.api\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148ACEE2-C359-48A0-BA33-5B94196F7721}|LibraryManagementEF.API\\LibraryManagementEF.API.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148ACEE2-C359-48A0-BA33-5B94196F7721}|LibraryManagementEF.API\\LibraryManagementEF.API.csproj|solutionrelative:librarymanagementef.api\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{148ACEE2-C359-48A0-BA33-5B94196F7721}|LibraryManagementEF.API\\LibraryManagementEF.API.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{148ACEE2-C359-48A0-BA33-5B94196F7721}|LibraryManagementEF.API\\LibraryManagementEF.API.csproj|solutionrelative:librarymanagementef.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|e:\\microsoft visual studio\\repositories\\librarymanagementef.api\\librarymanagementef.dal\\librarymanagementef.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FBB2DE0-90CF-4254-BDC1-2D33AA54B1FE}|LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj|solutionrelative:librarymanagementef.dal\\librarymanagementef.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.API\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagementEF.API\\appsettings.json",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.API\\appsettings.json",
+              "RelativeToolTip": "LibraryManagementEF.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-06T02:28:16.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.DAL\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\ApplicationDbContext.cs",
+              "RelativeToolTip": "LibraryManagementEF.DAL\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:27:51.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.DAL\\Repositories\\UserRepository.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "LibraryManagementEF.DAL\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:27:44.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RoleRepository.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\Repositories\\RoleRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.DAL\\Repositories\\RoleRepository.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\Repositories\\RoleRepository.cs",
+              "RelativeToolTip": "LibraryManagementEF.DAL\\Repositories\\RoleRepository.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwvwUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:27:36.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.DAL\\Repositories\\BookRepository.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "LibraryManagementEF.DAL\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAwwAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:27:22.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\IOC\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.DAL\\IOC\\DependencyInjection.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\IOC\\DependencyInjection.cs",
+              "RelativeToolTip": "LibraryManagementEF.DAL\\IOC\\DependencyInjection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:27:08.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.DAL\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "LibraryManagementEF.DAL\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:26:59.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IRoleRepository.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\Interfaces\\IRoleRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.DAL\\Interfaces\\IRoleRepository.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\Interfaces\\IRoleRepository.cs",
+              "RelativeToolTip": "LibraryManagementEF.DAL\\Interfaces\\IRoleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:26:58.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\Interfaces\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.DAL\\Interfaces\\IBookRepository.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\Interfaces\\IBookRepository.cs",
+              "RelativeToolTip": "LibraryManagementEF.DAL\\Interfaces\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:26:56.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BorrowRecordConfiguration.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\Configurations\\BorrowRecordConfiguration.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.DAL\\Configurations\\BorrowRecordConfiguration.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\Configurations\\BorrowRecordConfiguration.cs",
+              "RelativeToolTip": "LibraryManagementEF.DAL\\Configurations\\BorrowRecordConfiguration.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:26:46.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookConfiguration.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\Configurations\\BookConfiguration.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.DAL\\Configurations\\BookConfiguration.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\Configurations\\BookConfiguration.cs",
+              "RelativeToolTip": "LibraryManagementEF.DAL\\Configurations\\BookConfiguration.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:26:43.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.Core\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.Core\\Entities\\User.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.Core\\Entities\\User.cs",
+              "RelativeToolTip": "LibraryManagementEF.Core\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:26:38.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Role.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.Core\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.Core\\Entities\\Role.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.Core\\Entities\\Role.cs",
+              "RelativeToolTip": "LibraryManagementEF.Core\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:26:33.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BorrowRecord.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.Core\\Entities\\BorrowRecord.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.Core\\Entities\\BorrowRecord.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.Core\\Entities\\BorrowRecord.cs",
+              "RelativeToolTip": "LibraryManagementEF.Core\\Entities\\BorrowRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:26:25.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.Core\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.Core\\Entities\\Book.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.Core\\Entities\\Book.cs",
+              "RelativeToolTip": "LibraryManagementEF.Core\\Entities\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:26:23.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LibraryManagementEF.Core",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.Core\\LibraryManagementEF.Core.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementEF.Core\\LibraryManagementEF.Core.csproj",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.Core\\LibraryManagementEF.Core.csproj",
+              "RelativeToolTip": "LibraryManagementEF.Core\\LibraryManagementEF.Core.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T02:26:17.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.BL\\Services\\UserService.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Services\\UserService.cs",
+              "RelativeToolTip": "LibraryManagementEF.BL\\Services\\UserService.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:26:00.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Services\\RoleService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.BL\\Services\\RoleService.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Services\\RoleService.cs",
+              "RelativeToolTip": "LibraryManagementEF.BL\\Services\\RoleService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:25:53.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.BL\\Services\\BookService.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Services\\BookService.cs",
+              "RelativeToolTip": "LibraryManagementEF.BL\\Services\\BookService.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:25:44.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.BL\\Services\\AuthService.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Services\\AuthService.cs",
+              "RelativeToolTip": "LibraryManagementEF.BL\\Services\\AuthService.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:25:38.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\IOC\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.BL\\IOC\\DependencyInjection.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\IOC\\DependencyInjection.cs",
+              "RelativeToolTip": "LibraryManagementEF.BL\\IOC\\DependencyInjection.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:25:36.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.BL\\Interfaces\\IUserService.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "LibraryManagementEF.BL\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:25:30.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Interfaces\\IRoleService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.BL\\Interfaces\\IRoleService.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Interfaces\\IRoleService.cs",
+              "RelativeToolTip": "LibraryManagementEF.BL\\Interfaces\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:25:27.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRoleAssignmentService.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Interfaces\\IRoleAssignmentService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.BL\\Interfaces\\IRoleAssignmentService.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Interfaces\\IRoleAssignmentService.cs",
+              "RelativeToolTip": "LibraryManagementEF.BL\\Interfaces\\IRoleAssignmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:25:23.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.BL\\Interfaces\\IBookService.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "LibraryManagementEF.BL\\Interfaces\\IBookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:25:15.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookUpdateDTO.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\DTOs\\BookDTOs\\BookUpdateDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.BL\\DTOs\\BookDTOs\\BookUpdateDTO.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\DTOs\\BookDTOs\\BookUpdateDTO.cs",
+              "RelativeToolTip": "LibraryManagementEF.BL\\DTOs\\BookDTOs\\BookUpdateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:25:08.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BookResponseDTO.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\DTOs\\BookDTOs\\BookResponseDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.BL\\DTOs\\BookDTOs\\BookResponseDTO.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\DTOs\\BookDTOs\\BookResponseDTO.cs",
+              "RelativeToolTip": "LibraryManagementEF.BL\\DTOs\\BookDTOs\\BookResponseDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:25:07.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BookCreateDTO.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\DTOs\\BookDTOs\\BookCreateDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.BL\\DTOs\\BookDTOs\\BookCreateDTO.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\DTOs\\BookDTOs\\BookCreateDTO.cs",
+              "RelativeToolTip": "LibraryManagementEF.BL\\DTOs\\BookDTOs\\BookCreateDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:25:05.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserRegisterDTO.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\DTOs\\AuthDTOs\\UserRegisterDTO.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.BL\\DTOs\\AuthDTOs\\UserRegisterDTO.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\DTOs\\AuthDTOs\\UserRegisterDTO.cs",
+              "RelativeToolTip": "LibraryManagementEF.BL\\DTOs\\AuthDTOs\\UserRegisterDTO.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:24:58.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.BL\\Interfaces\\IAuthService.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "LibraryManagementEF.BL\\Interfaces\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:24:55.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.API\\SeedData.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.API\\SeedData.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.API\\SeedData.cs",
+              "RelativeToolTip": "LibraryManagementEF.API\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:24:43.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.API\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.API\\Program.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.API\\Program.cs",
+              "RelativeToolTip": "LibraryManagementEF.API\\Program.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:24:38.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "RolesController.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.API\\Controllers\\RolesController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.API\\Controllers\\RolesController.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.API\\Controllers\\RolesController.cs",
+              "RelativeToolTip": "LibraryManagementEF.API\\Controllers\\RolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:24:10.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RoleAssignmentController.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.API\\Controllers\\RoleAssignmentController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.API\\Controllers\\RoleAssignmentController.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.API\\Controllers\\RoleAssignmentController.cs",
+              "RelativeToolTip": "LibraryManagementEF.API\\Controllers\\RoleAssignmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:24:00.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.API\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.API\\Controllers\\BooksController.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.API\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryManagementEF.API\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:23:45.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.API\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "LibraryManagementEF.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:23:40.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LibraryManagementEF.DAL",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj",
+              "RelativeDocumentMoniker": "LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj",
+              "RelativeToolTip": "LibraryManagementEF.DAL\\LibraryManagementEF.DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-06T02:21:50.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BorrowController.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.API\\Controllers\\BorrowController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.API\\Controllers\\BorrowController.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.API\\Controllers\\BorrowController.cs",
+              "RelativeToolTip": "LibraryManagementEF.API\\Controllers\\BorrowController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:14:20.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BorrowService.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Services\\BorrowService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.BL\\Services\\BorrowService.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Services\\BorrowService.cs",
+              "RelativeToolTip": "LibraryManagementEF.BL\\Services\\BorrowService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:13:54.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IBorrowService.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Interfaces\\IBorrowService.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.BL\\Interfaces\\IBorrowService.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.BL\\Interfaces\\IBorrowService.cs",
+              "RelativeToolTip": "LibraryManagementEF.BL\\Interfaces\\IBorrowService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:13:30.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BorrowRecordRepository .cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\Repositories\\BorrowRecordRepository .cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.DAL\\Repositories\\BorrowRecordRepository .cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\Repositories\\BorrowRecordRepository .cs",
+              "RelativeToolTip": "LibraryManagementEF.DAL\\Repositories\\BorrowRecordRepository .cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:12:58.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IBorrowRecordRepository.cs",
+              "DocumentMoniker": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\Interfaces\\IBorrowRecordRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementEF.DAL\\Interfaces\\IBorrowRecordRepository.cs",
+              "ToolTip": "E:\\Microsoft Visual Studio\\Repositories\\LibraryManagementEF.API\\LibraryManagementEF.DAL\\Interfaces\\IBorrowRecordRepository.cs",
+              "RelativeToolTip": "LibraryManagementEF.DAL\\Interfaces\\IBorrowRecordRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T02:12:36.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
